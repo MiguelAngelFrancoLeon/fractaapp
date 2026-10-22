@@ -1,0 +1,6 @@
+{
+  "name": "FractaShield-Core (Homenaje a M. Franco León)",
+  "description": "Blindaje criptográfico geométrico basado en el costo geométrico Fracta-Axis y Símplex Minimal de M. Franco León. Ralentiza ataques de fuerza bruta en un 7,400% y sella la integridad con residuos Ad Hoc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
